@@ -1,0 +1,39 @@
+h1{
+    color: #191970;
+    text-align: center;
+}
+
+.header{
+    border: solid;
+    background-image: url(wood.jpeg);
+    padding: 50px;
+    text-align: center;
+}
+
+.text {
+    border-style: dashed ;
+    border-width: 2px;
+    background-color: #FFE4E1;
+    border-radius: 5px;
+}
+
+.intro {
+    border-style: dashed ;
+    border-width: 3px;
+    background-color: #FFE4E1;
+}
+
+.steps{
+    border: solid;
+    background-image: url(bg2.jpeg);
+    text-align: center;
+    font-size: 30px;
+}
+
+.footer{
+    border: dashed;
+    border-width: 3px;
+    background-image: url(wood.jpeg);
+    padding: 50px;
+    text-align: center;
+}
